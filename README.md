@@ -4,3 +4,4 @@ Dask is a flexible library for parallel computing in Python. A Dask DataFrame is
 
 Click [here](https://github.com/sarmad9987/Machine-learning-with-Dask/blob/main/DASK.ipynb) for code. 
 
+![Screenshot 2022-07-19 165807](https://user-images.githubusercontent.com/90148389/179795960-514a4fc2-9499-45e8-bb0e-ece262e134c6.jpg)
